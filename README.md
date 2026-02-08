@@ -1,3 +1,4 @@
+
 # Phase I – In-Memory Python CLI Todo Application
 
 A command-line based Todo application that demonstrates clean architecture, modular design, and extensibility for future cloud-native and AI-driven phases. The application runs locally with in-memory storage and provides core task management capabilities.
@@ -67,3 +68,4 @@ src/
 ## License
 
 This project is open source and available under the MIT License.
+
